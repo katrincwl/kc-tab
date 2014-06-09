@@ -1,7 +1,7 @@
 kc-tab
 ======
 
-jQuery plugin: Make dom element into tabs easily
+jQuery plugin: Make dom element into tabs easily 
 
 HTML DOM example
 <pre><code>&lt;div class="container" >
@@ -14,7 +14,7 @@ HTML DOM example
 &lt;/div>
 </code></pre>
 
-Javascript
+Javascript Example
 <pre><code>$('.container').kc_tab({
   default_tab : 0,
 	tab_btn_cls : 'kc_tab_btn',
@@ -24,8 +24,7 @@ Javascript
 });
 </code></pre>
 
-CSS
-e.g 
+CSS Example
 <pre><code>.kc_tab_content{display:none;}
 .kc_active_tab{background-color:#10334B;}
 .kc_active_content{display:block;}
