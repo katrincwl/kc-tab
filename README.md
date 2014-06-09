@@ -27,6 +27,6 @@ Javascript
 CSS
 e.g 
 <pre><code>.kc_tab_content{display:none;}
-.button.kc_active_tab{background-color:#10334B;}
+.kc_active_tab{background-color:#10334B;}
 .kc_active_content{display:block;}
 </code></pre>
