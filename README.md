@@ -16,7 +16,7 @@ HTML DOM example
 
 Javascript Example
 <pre><code>$('.container').kc_tab({
-  default_tab : 0,
+	default_tab : 0,
 	tab_btn_cls : 'kc_tab_btn',
 	tab_content_cls : 'kc_tab_content',
 	active_tab_cls : 'kc_active_tab',
