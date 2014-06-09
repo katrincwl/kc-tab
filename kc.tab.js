@@ -1,7 +1,7 @@
 /**
  *  @file kc.tab.js
  *  @brief Tabbify the target element
- *  @author Mark Luk
+ *  @author Katrincwl
  */
 
 (function($) {
